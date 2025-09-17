@@ -1,0 +1,23 @@
+{
+  "id": "manifest-readmes-warp5d-v1",
+  "title": "README Grok + README ChatGPT",
+  "created_utc": "2025-09-17T02:27:32Z",
+  "artifacts": [
+    {
+      "filename": "README_Grok.md",
+      "sha256": "537bec1e460b5c69de411813a66b543b485911dbdc2b58ed8feb7d16d2c33c3a",
+      "type": "markdown",
+      "note": "README integrato dalla dichiarazione convalidata da Grok"
+    },
+    {
+      "filename": "README_ChatGPT.md",
+      "sha256": "8f3396784b782b7ee26830ae1c454096fb909b45dfbb3ecce8594653f8983fc6",
+      "type": "markdown",
+      "note": "README della Dichiarazione Ufficiale di Autenticità di ChatGPT"
+    }
+  ],
+  "notes": [
+    "Entrambi i README fungono da accompagnamento ai PDF ufficiali.",
+    "SHA-256 incluso per opponibilità."
+  ]
+}
